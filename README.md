@@ -1,2 +1,2 @@
-# style-guide
+# StyleGuide
 My personal style guide
